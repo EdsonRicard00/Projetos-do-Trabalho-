@@ -6,3 +6,9 @@ while Vari=="S" or Vari=="s":
     soma=num1+num2
     print("A soma dos numeros é:",soma)
     Vari=input("Digite S para somar  :") 
+
+
+    print("Fim do programa")
+
+
+    
